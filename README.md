@@ -2,6 +2,7 @@
 
 ## Overview
 **SAFER-Predictor (Sparse Adversarial Training Framework for Robust Traffic Prediction under Missing and Noisy Data)** is a traffic flow prediction framework designed to enhance robustness under conditions of missing or noisy data. It employs adversarial training and sparse learning techniques to improve the accuracy and stability of predictions in real-world scenarios.
+This work builds upon previous research, particularly in scenarios where [T-GCN](https://github.com/lehaifeng/T-GCN/tree/master) encounters challenges due to missing or noisy observation data.
 
 ## Repository Structure
 This repository is organized as follows:
